@@ -7,3 +7,7 @@ my age is 20
 school is isipathana college
 
 my home town is matara
+
+New line 1
+New line 2
+New line 3
